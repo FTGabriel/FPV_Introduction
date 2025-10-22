@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|c:\\users\\gfunarotourbez\\documents\\github\\fpv_introduction\\fpv_introduction\\assets\\script\\trailtogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trailtogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\particlesystemtogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\particlesystemtogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|c:\\users\\gfunarotourbez\\documents\\github\\fpv_introduction\\fpv_introduction\\assets\\script\\gameobjecttogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameobjecttogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\animatorstatebasedontogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animatorstatebasedontogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\interactiontogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactiontogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\triggertogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\triggertogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|c:\\users\\gfunarotourbez\\documents\\github\\fpv_introduction\\fpv_introduction\\assets\\script\\basetogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\basetogglesetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\basetogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\basetogglecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\assets\\script\\itoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B1052B-FEF9-5AEE-1F0F-0B08854EEC44}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrailToggleComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\TrailToggleComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TrailToggleComponent.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\TrailToggleComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\TrailToggleComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:43:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObjectToggleComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\GameObjectToggleComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameObjectToggleComponent.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\GameObjectToggleComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\GameObjectToggleComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:43:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriggerToggleSetter.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\TriggerToggleSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TriggerToggleSetter.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\TriggerToggleSetter.cs",
+              "RelativeToolTip": "Assets\\Script\\TriggerToggleSetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:53:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractionToggleSetter.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\InteractionToggleSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InteractionToggleSetter.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\InteractionToggleSetter.cs",
+              "RelativeToolTip": "Assets\\Script\\InteractionToggleSetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:53:59.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseToggleSetter.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\BaseToggleSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BaseToggleSetter.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\BaseToggleSetter.cs",
+              "RelativeToolTip": "Assets\\Script\\BaseToggleSetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:53:33.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IToggle.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\IToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IToggle.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\IToggle.cs",
+              "RelativeToolTip": "Assets\\Script\\IToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:47:32.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseToggleComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\BaseToggleComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BaseToggleComponent.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\BaseToggleComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\BaseToggleComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:53:35.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticleSystemToggleComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\ParticleSystemToggleComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ParticleSystemToggleComponent.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\ParticleSystemToggleComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\ParticleSystemToggleComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:54:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimatorStateBasedOnToggleComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\AnimatorStateBasedOnToggleComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AnimatorStateBasedOnToggleComponent.cs",
+              "ToolTip": "C:\\Users\\gfunarotourbez\\Documents\\GitHub\\FPV_Introduction\\FPV_Introduction\\Assets\\Script\\AnimatorStateBasedOnToggleComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\AnimatorStateBasedOnToggleComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:54:33.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
