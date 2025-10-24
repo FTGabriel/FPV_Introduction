@@ -1,16 +1,21 @@
 using UnityEngine;
 
-public class GameObjectToggleComponent : MonoBehaviour
+public class GameObjectToggleComponent : BaseToggleComponent
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private GameObject target = null;
+
+    private void Reset()
     {
-        
+        target = gameObject;
     }
 
-    // Update is called once per frame
-    void Update()
+    protected override void ActivateComponent()
     {
-        
+        target.SetActive(true);
+    }
+
+    protected override void DeactivateComponent()
+    {
+        target.SetActive(false);
     }
 }

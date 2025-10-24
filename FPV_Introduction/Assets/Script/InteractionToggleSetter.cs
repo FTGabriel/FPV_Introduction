@@ -2,8 +2,5 @@ using UnityEngine;
 
 public class InteractionToggleSetter : BaseToggleSetter
 {
-    private void Interact()
-    {
-        
-    }
+    public void Interact() => Switch();
 }

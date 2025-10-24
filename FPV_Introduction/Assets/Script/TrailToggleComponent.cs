@@ -1,16 +1,16 @@
 using UnityEngine;
 
-public class TrailToggleComponent : MonoBehaviour
+public class TrailToggleComponent : BaseToggleComponent
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private TrailRenderer trailRenderer = null;
+
+    protected override void ActivateComponent()
     {
-        
+        trailRenderer.emitting = true;
     }
 
-    // Update is called once per frame
-    void Update()
+    protected override void DeactivateComponent()
     {
-        
+        trailRenderer.emitting = false;
     }
 }

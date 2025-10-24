@@ -1,16 +1,19 @@
 using UnityEngine;
 
-public class StartParticle : MonoBehaviour
+public class ParticlesLauncher : MonoBehaviour
 {
-    [SerializeField] private ParticleSystem particleSystem = null;
+    [SerializeField] private new ParticleSystem particleSystem = null;
+
+    public void Start()
+    {
+    }
+
+    public void Stop()
+    {
+    }
 
     private void OnTriggerEnter(Collider other)
     {
         particleSystem.Play();
     }
 }
-
-/*public interface IInterface()
-{
-    void Start();
-}*/

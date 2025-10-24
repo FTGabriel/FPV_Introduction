@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     [SerializeField] private Rigidbody rigidBody = null;
     [SerializeField] private Vector2 minMaxYaw = new(-70f, 70f);
 
+    [SerializeField] private LayerMask interactionMask = default;
     [SerializeField] private Transform root = null;
     [SerializeField] private Transform head = null;
 
@@ -31,6 +32,19 @@ public class Player : MonoBehaviour
         input = context.ReadValue<Vector2>();
         input.z = input.y;
         input.y = 0;
+    }
+
+    public void Player_OnInteract(CallbackContext context)
+    {
+        Ray ray = new Ray(head.position, head.forward);
+        RaycastHit hit;
+
+        if (Physics.Raycast(ray, out hit, 5f, interactionMask))
+        {
+            //Debug.Log(hit.collider.gameObject.name);
+            if (hit.collider.TryGetComponent(out InteractionToggleSetter interactionToggleSetter))
+                interactionToggleSetter.Interact();
+        }
     }
 
     public void Player_OnLook(CallbackContext context)
@@ -63,22 +77,22 @@ public class Player : MonoBehaviour
                 input.x = 1;
         }
 
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.W))
         {
             input.z += 1;
         }
 
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.S))
         {
             input.z -= 1;
         }
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.A))
         {
             input.x -= 1;
         }
 
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             input.x += 1;
         }
